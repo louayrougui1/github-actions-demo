@@ -10,7 +10,7 @@ describe("Express API", () => {
 
     expect(response.body).toEqual({
       message: "Welcome to my Express API!",
-      version: "1.0.0",
+      version: "1.1.1",
     });
   });
 
