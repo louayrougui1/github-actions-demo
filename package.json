@@ -1,0 +1,30 @@
+{
+  "name": "github-actionsdemo",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000g\u0000i\u0000t\u0000h\u0000u\u0000b\u0000-\u0000a\u0000c\u0000t\u0000i\u0000o\u0000n\u0000s\u0000-\u0000d\u0000e\u0000m\u0000o\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "vitest run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/louayrougui1/github-actions-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/louayrougui1/github-actions-demo/issues"
+  },
+  "homepage": "https://github.com/louayrougui1/github-actions-demo#readme",
+  "dependencies": {
+    "dotenv": "^18.0.5",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "supertest": "^7.3.1",
+    "vitest": "^5.0.3"
+  }
+}
