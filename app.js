@@ -5,7 +5,7 @@ const app = express();
 app.get("/", (req, res) => {
   res.json({
     message: "Welcome to my Express API!",
-    version: "1.0.0",
+    version: "1.1.0",
   });
 });
 
